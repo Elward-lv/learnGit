@@ -1,2 +1,2 @@
-hello
-this text is designed by notepade
+hello admin
+this text is designed by notepade -- admin
